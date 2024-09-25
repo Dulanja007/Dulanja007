@@ -17,7 +17,8 @@
  ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Dulanja007&show_icons=true&theme=tokyonight)  ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dulanja007&theme=tokyonight) 
 
 <p align="center">
-
+<a  href="https://github.com/Dulanja007">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dulanja007&layout=compact&langs_count=8&theme=algolia"/> 
 </p>
 
 
