@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dulanja Vimukthi</h1>
 <h3 align="center">A passionate full Stack developer </h3>
 
+<p align="center" >
+ <img height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -17,4 +20,8 @@
 <a  href="https://github.com/Dulanja007">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dulanja007&layout=compact&langs_count=8&theme=algolia"/> 
 </p>
+
+
+
+
 
