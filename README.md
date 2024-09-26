@@ -14,7 +14,7 @@
 
 ## Dulanja's Activity Graph
 
- ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Dulanja007&show_icons=true&theme=tokyonight)  ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dulanja007&theme=tokyonight) 
+|![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Dulanja007&show_icons=true&theme=tokyonight)|![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dulanja007&theme=tokyonight)| 
 
 <p align="center">
 <a  href="https://github.com/Dulanja007">
