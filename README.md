@@ -14,7 +14,7 @@
 <!-- comment line -->
 ## Dulanja's Activity Graph
 
- |![Dulanja's github stats](https://github-readme-stats.vercel.app/api?username=Dulanja007&show_icons=true&theme=tokyonight)|![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dulanja007&theme=tokyonight)| 
+ |![Dulanja's github stats](https://github-readme-stats.vercel.app/api?username=Dulanja007&show_icons=true&theme=tokyonight)| (https://github-readme-streak-stats.herokuapp.com/?user=Dulanja007&theme=tokyonight)| 
 
 
 <!--
